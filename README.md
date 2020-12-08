@@ -1,2 +1,3 @@
-# data_science
-Projetos gerais em Data Science.
+# Data Science
+
+Repositório destinado a projetos gerais em Data Science.
